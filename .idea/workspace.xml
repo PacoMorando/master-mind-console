@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21a36faa-8bf9-4ae7-9d65-637cdaf1f991" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/ConsoleMasterMind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/sas/mastermind/console/ConsoleMasterMindTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/PlayView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/PlayView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/ResultView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/ResultView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/SaveView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/SaveView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/StartView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/StartView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/ExitCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/ExitCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/GameSelectCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/GameSelectCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/GameSelectMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/GameSelectMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/NewGameCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/NewGameCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/OpenGameCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/OpenGameCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/PlayMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/PlayMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/ProposeCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/ProposeCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/ProposedCombinationView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/ProposedCombinationView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/RedoCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/RedoCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/StartMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/StartMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/UndoCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/UndoCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/models/BoardView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/models/BoardView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/models/ConsoleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/models/ConsoleView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/models/ResumeView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/models/ResumeView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/models/SecretCombinationView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/models/SecretCombinationView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RqVjtK8aaIPzy8QTxOvjyYWs6l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/pacomorando/SpringBootProjects/multiplatform-master-mind/master-mind-console/src/main/java/sas/mastermind/console"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/sas/mastermind/console" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="sas.mastermind.console.views" />
+      <recent name="sas.mastermind.console" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ConsoleMasterMind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sas.mastermind.console.ConsoleMasterMind" />
+      <module name="master-mind-console" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sas.mastermind.console.views.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsoleMasterMind" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21a36faa-8bf9-4ae7-9d65-637cdaf1f991" name="Changes" comment="" />
+      <created>1687977747342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687977747342</updated>
+    </task>
+    <servers />
+  </component>
+</project>
