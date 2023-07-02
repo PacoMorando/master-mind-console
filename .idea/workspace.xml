@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21a36faa-8bf9-4ae7-9d65-637cdaf1f991" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/ConsoleMasterMind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/sas/mastermind/console/ConsoleMasterMindTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/PlayView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/PlayView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/ResultView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/ResultView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/SaveView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/SaveView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/StartView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/StartView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/ExitCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/ExitCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/GameSelectCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/GameSelectCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/GameSelectMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/GameSelectMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/NewGameCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/NewGameCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/OpenGameCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/OpenGameCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/PlayMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/PlayMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/ProposeCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/ProposeCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/ProposedCombinationView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/ProposedCombinationView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/RedoCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/RedoCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/StartMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/StartMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/UndoCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/menus/UndoCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/models/BoardView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/models/BoardView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/models/ConsoleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/models/ConsoleView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/models/ResumeView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/models/ResumeView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/models/SecretCombinationView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/views/models/SecretCombinationView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/ConsoleMasterMind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sas/mastermind/console/ConsoleMasterMind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +21,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/pacomorando/SpringBootProjects/multiplatform-master-mind/master-mind-console/src/main/java/sas/mastermind/console"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/pacomorando/SpringBootProjects/multiplatform-master-mind/master-mind-console/src/main/java/sas/mastermind/console&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/sas/mastermind/console" />
