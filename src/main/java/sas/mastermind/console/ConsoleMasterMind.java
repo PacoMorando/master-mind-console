@@ -21,4 +21,6 @@ public class ConsoleMasterMind extends MasterMind {
     public static void main(String[] args) {
         new ConsoleMasterMind().play();
     }
+
+    //COMMIT DE PRUEBA PARA TRABAJAR DE FORMA REMOTA EN LA LAP Y EN LA COMPU
 }
