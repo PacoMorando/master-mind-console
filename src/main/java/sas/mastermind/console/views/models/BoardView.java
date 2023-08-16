@@ -2,7 +2,6 @@ package sas.mastermind.console.views.models;
 
 import sas.mastermind.core.controllers.PlayController;
 import sas.mastermind.console.views.Message;
-import sas.mastermind.console.views.ResultView;
 
 public class BoardView {
 

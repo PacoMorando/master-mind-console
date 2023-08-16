@@ -1,4 +1,4 @@
-package sas.mastermind.console.views.models;
+package sas.mastermind.console.views;
 
 import sas.mastermind.core.controllers.ResumeController;
 import sas.mastermind.console.utils.YesNoDialog;

@@ -1,4 +1,4 @@
-package sas.mastermind.console.views;
+package sas.mastermind.console.views.models;
 
 import sas.mastermind.core.controllers.PlayController;
 import sas.mastermind.core.models.ProposedCombination;

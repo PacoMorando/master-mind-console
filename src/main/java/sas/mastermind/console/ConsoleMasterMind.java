@@ -1,7 +1,7 @@
 package sas.mastermind.console;
 
 import sas.mastermind.console.dao.SessionImplementationDAO;
-import sas.mastermind.console.views.models.ConsoleView;
+import sas.mastermind.console.views.ConsoleView;
 import sas.mastermind.core.MasterMind;
 import sas.mastermind.core.controllers.Logic;
 import sas.mastermind.core.controllers.LogicImplementation;
