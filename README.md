@@ -20,7 +20,7 @@ validating user input data. To implement the persistence it uses FileWriter to s
 
 The application core is developed in Java and is implemented as a maven dependency.
 
-**[Here you can check the core application documentation](#[application-development](https://github.com/PacoMorando/multiplatform-master-mind#documentation))**
+**[Here you can check the core application documentation](https://github.com/PacoMorando/multiplatform-master-mind#documentation)**
 
 
 ### Architecture Design
