@@ -1,10 +1,7 @@
-package sas.mastermind.console.views.models;
+package sas.mastermind.console.views;
 
 import sas.mastermind.core.controllers.*;
 import sas.mastermind.core.views.View;
-import sas.mastermind.console.views.PlayView;
-import sas.mastermind.console.views.SaveView;
-import sas.mastermind.console.views.StartView;
 
 public class ConsoleView extends View {
     private final StartView startView;
