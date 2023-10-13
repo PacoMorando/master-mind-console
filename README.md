@@ -24,13 +24,13 @@ The application core is developed in Java and is implemented as a maven dependen
 
 
 ### Architecture Design
-![Architecture Design](https://raw.githubusercontent.com/PacoMorando/multiplatform-master-mind/0dfd1ac5bae80c9af707c17e57cfe8e2838f13a2/docs/console/architecture_desing/analysis-architecture.svg)
+![Architecture Design](docs/architecture_desing/analysis-architecture.svg)
 
 ### Colaboration Diagram 'Open Case'
-![Architecture Design](https://raw.githubusercontent.com/PacoMorando/multiplatform-master-mind/0dfd1ac5bae80c9af707c17e57cfe8e2838f13a2/docs/console/colaboration_open/colaboration-open.svg)
+![Architecture Design](docs/colaboration_open/colaboration-open.svg)
 
 ### Colaboration Diagram 'ProposeCombination Case'
-![Architecture Design](https://raw.githubusercontent.com/PacoMorando/multiplatform-master-mind/0dfd1ac5bae80c9af707c17e57cfe8e2838f13a2/docs/console/colaboration_propose_combination/colaboration-propose-combination.svg)
+![Architecture Design](docs/colaboration_propose_combination/colaboration-propose-combination.svg)
 
 ## User Interface
 
